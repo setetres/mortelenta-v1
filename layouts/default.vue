@@ -41,7 +41,10 @@
             fill="#ffffff"
           />
         </svg>
-        <div id="scythe" class="z-20 top-2/4 transform -translate-y-2/4" />
+        <div
+          id="scythe"
+          class="z-20 pointer-events-none top-2/4 transform -translate-y-2/4"
+        />
       </div>
       <div
         class="
@@ -167,8 +170,8 @@ export default {
       }
 
       function render() {
-        camera.position.x += (mouseX - camera.position.x) * 0.025
-        camera.position.y += (-mouseY - camera.position.y) * 0.025
+        camera.position.x += (mouseX - camera.position.x) * 0.05
+        camera.position.y += (-mouseY - camera.position.y) * 0.05
         camera.lookAt(scene.position)
 
         renderer.render(scene, camera)
