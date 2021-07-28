@@ -1,0 +1,14 @@
+<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <style>
+      path {
+          fill: #000000;
+      }
+
+      @media (prefers-color-scheme: dark) {
+          path {
+              fill: #ffffff;
+          }
+      }
+  </style>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M6.375 0H0v16h1.5L6.375 0zM9.25 0L8.125 7.532l-.063.25h.016l.094-.25L11.625 0H9.25zm5.25 0L9.625 16H16V0h-1.5zM7.219 16l2.297-7.728.046-.152h-.015l-.047.152L6.281 16h.938zm-2.344 0l1.406-7.728.047-.152h-.016l-.046.152L3.906 16h.969z" fill="#000000"/>
+</svg>

@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body::before {
+  background-image: url('/noise.gif');
+  background-repeat: repeat;
+  background-position: center center;
+  content: '';
+  display: block;
+  height: 100%;
+  left: 0;
+  opacity: 0.15;
+  pointer-events: none;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 50;
+}
