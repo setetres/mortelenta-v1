@@ -2,15 +2,11 @@
   <ul
     class="
       flex flex-col
-      lg:flex-row
-      font-mono font-bold
-      uppercase
-      space-x-0
-      lg:space-x-6
-      relative
-      bg-black
-      text-white text-2xl
-      z-10
+      md:flex-row
+      space-y-2
+      md:space-y-0 md:space-x-8
+      items-center
+      justify-center
     "
   >
     <li>ERROR</li>
