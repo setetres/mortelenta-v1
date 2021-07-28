@@ -11,7 +11,6 @@
       bg-black
       text-white text-2xl
       z-10
-      mt-8
     "
   >
     <li>ERROR</li>
