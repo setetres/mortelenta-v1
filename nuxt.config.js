@@ -8,7 +8,7 @@ export default {
       lang: 'en',
     },
     bodyAttrs: {
-      class: 'overflow-hidden select-none bg-black',
+      class: 'select-none bg-black',
     },
     title: '𝙈𝙊𝙍𝙏𝙀𝙇𝙀𝙉𝙏𝘼',
     meta: [
