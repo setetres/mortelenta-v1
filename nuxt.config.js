@@ -67,6 +67,12 @@ export default {
     throttle: 0,
   },
   css: ['@/assets/css/application.css'],
+  plugins: [
+    {
+      src: '~/plugins/ga.js',
+      mode: 'client',
+    },
+  ],
   components: true,
   buildModules: [
     '@nuxtjs/eslint-module',
