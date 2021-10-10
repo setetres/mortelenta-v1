@@ -21,7 +21,7 @@ export default {
       {
         hid: 'description',
         name: 'description',
-        content: 'Broadcast Collective',
+        content: 'Art Collective',
       },
 
       { hid: 'og:type', property: 'og:type', content: 'website' },
@@ -29,7 +29,7 @@ export default {
       {
         hid: 'og:description',
         property: 'og:description',
-        content: 'Broadcast Collective',
+        content: 'Art Collective',
       },
       {
         hid: 'og:image',
@@ -51,7 +51,7 @@ export default {
       {
         hid: 'twitter:description',
         name: 'twitter:description',
-        content: 'Broadcast Collective',
+        content: 'Art Collective',
       },
       {
         hid: 'twitter:image',
