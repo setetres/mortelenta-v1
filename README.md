@@ -1,9 +1,9 @@
-# mortelenta
+# mortelenta-v1
 
-[![Github License](https://img.shields.io/github/license/setetres/mortelenta.svg?v=11)](https://github.com/setetres/mortelenta/blob/master/LICENSE)
+[![Github License](https://img.shields.io/github/license/setetres/mortelenta-v1.svg?v=11)](https://github.com/setetres/mortelenta-v1/blob/master/LICENSE)
 
-| [![mortelenta](https://setetres.s3.amazonaws.com/setetres.st/img/share-mortelenta.png?v=2&raw=true)](http://mortelenta.org) |
-| --------------------------------------------------------------------------------------------------------------------------- |
+| [![mortelenta-v1](https://setetres.s3.amazonaws.com/setetres.st/img/share-mortelenta-v1.png?v=2&raw=true)](http://mortelenta.org) |
+| --------------------------------------------------------------------------------------------------------------------------------- |
 
 ## License
 
